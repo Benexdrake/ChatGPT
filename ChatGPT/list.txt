@@ -1,0 +1,1254 @@
+2FA (Two-Factor Authentication)
+3D-Druck
+A/B-Test
+Abfragesprache
+Abhängigkeit
+Abkapselung
+Abonnement
+Abstraktion
+Abwärtskompatibilität
+ACID (Atomicity, Consistency, Isolation, Durability)
+Adapter
+Ad-hoc-Netzwerk
+Agil
+Agile Softwareentwicklung
+AI (Artificial Intelligence)
+AJAX (Asynchronous JavaScript and XML)
+Akustische Modellierung
+Alarmierung
+Algorithmus
+Algorithmus
+Allgemeine Geschäftsbedingungen (AGB)
+All-in-One-PC
+Alt-Tags
+Amazon Web Services (AWS)
+AMD (Advanced Micro Devices)
+AML (Application Markup Language)
+Android
+Angular
+Animation
+Anonymisierung
+Anonymität
+Anpassbarkeit
+Anreizprogramm
+Apache
+API (Application Programming Interface)
+API (Application Programming Interface)
+App
+Apple
+Arbeitsspeicher (RAM)
+Architektur
+Argument
+Array
+ASCII (American Standard Code for Information Interchange)
+ASIC (Application Specific Integrated Circuit)
+ASP (Active Server Pages)
+Asset-Management
+Attribut
+Augmented Reality (AR)
+Authentifizierung
+Auto-Scaling
+Avatar
+Back-end
+Back-end
+Backup
+Bandbreite
+Bash (Bourne-Again Shell)
+Batch-Datei
+Baud
+Befehlszeile
+Benchmark
+Benutzeroberfläche (UI)
+Benutzerschnittstelle (GUI)
+Beobachter
+Bestätigungs-E-Mail
+Beta-Version
+Bibliothek
+Bidirektional
+Big Data
+Binaer
+Binärcode
+BIOS (Basic Input/Output System)
+Bit
+Bitrate
+Blacklist
+Blockchain
+Blog
+Bluetooth
+Boolesche Algebra
+Booten
+Bot
+Botschaft
+Branch
+Branching
+Breadcrumbs
+Breakpoint
+Broadband
+Browser
+Brücke
+Buffer
+Bug
+Build
+Byte
+Cache
+Call to Action (CTA)
+CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart)
+Carrier
+Case
+CDN (Content Delivery Network)
+Certificate Authority (CA)
+CGI (Common Gateway Interface)
+Chatbot
+Chatroom
+Checksumme
+Chip
+Class
+Client
+Cloud-Computing
+Cloud-Computing
+Cluster
+CMS (Content Management System)
+Code
+Codec
+Codierung
+Collaboration
+Compiler
+Complexity
+Computer
+Computerlinguistik
+Computerprogramm
+Computing
+Controller
+Cookie
+Crawler
+CRM (Customer Relationship Management)
+Cross-Platform
+CSS (Cascading Style Sheets)
+CSS3 (Cascading Style Sheets Level 3)
+CUDA (Compute Unified Device Architecture)
+Cursor
+Cyberangriff
+Cyberkriminalität
+Cybersecurity
+Cybersecurity
+Daemon
+Datenaggregation
+Datenaustausch
+Datenbank
+Datenbank
+Datenbanksystem
+Datenkompression
+Datenleitung
+Datenmenge
+Datenmodell
+Datenpaket
+Datenrate
+Datenrettung
+Datensatz
+Datenschutz
+Datenspeicherung
+Datenübertragung
+Datenvalidierung
+Datumsfunktionen
+Debugger
+Debugger
+Dekomprimierung
+Delimiter
+Dell
+Demultiplexen
+Denial-of-Service (DoS)
+Deployment
+Derivat
+Desktop
+Desktop-Computer
+Desktop-Virtualisierung
+Device
+DHCP (Dynamic Host Configuration Protocol)
+Dialogbox
+Digitale Signatur
+Digitalisierung
+Dimension
+Directory
+Direktiven
+Disk
+Display
+Display-Port
+DNS (Domain Name System)
+Docker
+Dokumentation
+Domain
+Dongle
+Download
+DRAM (Dynamic Random Access Memory)
+Drive
+Drop-Down-Menü
+DSL (Digital Subscriber Line)
+DSLAM (Digital Subscriber Line Access Multiplexer)
+Dual-Core
+Dublettenprüfung
+Durchlaufzeit
+Durchsetzungsvermögen
+EAI (Enterprise Application Integration)
+E-Business
+Echtzeit
+Eclipse
+ECMAScript
+E-Commerce
+Edge Computing
+EDI (Electronic Data Interchange)
+Editor
+Effektivität
+Effizienz
+Effizienz
+EFI (Extensible Firmware Interface)
+Eingabeaufforderung
+Eingabegerät
+Einheit
+Einheitstest
+Einheitsvektor
+Einplatinencomputer
+Einrichtung
+Einschreibung
+Einstiegsseite
+EIP (Enterprise Integration Patterns)
+EJB (Enterprise JavaBeans)
+EJB (Enterprise JavaBeans)
+EL (Expression Language)
+Elektronische Signatur
+Element
+Elementtypen
+E-Mail
+E-Mail-Adresse
+E-Mail-Marketing
+E-Mail-Server
+E-Mail-Software
+Embedded System
+Emoticon
+Encryption
+Endgerät
+Endlosschleife
+Endpunkt
+End-to-End
+End-to-End-Verschlüsselung
+Energieeffizienz
+Entität
+Entitätsbeziehung
+Entwicklungsum
+E-Portfolio
+Error
+ES (ECMAScript)
+ESC (Escape)
+Escape-Sequenz
+Ethernet
+ETL (Extract, Transform, Load)
+Event
+Event-Handler
+Event-Listener
+Event-Log
+Exabyte
+Exabyte (EB)
+Excel
+Exchange-Server
+Exklusives Oder
+Exploit
+Export
+Extensible Markup Language (XML)
+Extension
+Extract, Transform, Load (ETL)
+Facebook
+Failover
+Fehlerbehebung
+Fehlercodes
+Fehlerhafte Seite
+Fehlermeldung
+Fehlerprävention
+Fehlerquelle
+Fehlerseite
+Fileserver
+Filter
+Firewall
+Firewall
+Firmware
+FISMA (Federal Information Security Management Act)
+Flag
+Flashtabelle
+Flashtool
+Flexibilität
+Floating-Point
+Floppy-Disk
+Flowchart
+Fokus
+Folie
+Font
+Formatierung
+Forschung
+Forwarding
+FPU (Floating Point Unit)
+Frame
+Framework
+FreeBSD
+Freeware
+Front-End
+Front-End-Entwicklung
+FTP (File Transfer Protocol)
+Funktion
+Funktionale Programmierung
+Funktionsbibliothek
+Funktionsgenerator
+Funktionsparameter
+Funktionsprototyp
+Funktionsrückgabe
+Funktionsübergabe
+Funktionszeiger
+Fuzzy-Logik
+Gantt-Diagramm
+Gateway
+Gb (Gigabit)
+Gbps (Gigabit pro Sekunde)
+GDI (Graphics Device Interface)
+Gebrauchstauglichkeit
+Geheimhaltung
+Geolocation
+Gerätetreiber
+Geschwindigkeit
+Gesperrte Datei
+Gestaltung
+GET (Holen)
+Geteilter Bildschirm
+Gewichtung
+Gigabit (Gb)
+Gigabyte (GB)
+GIGO (Garbage In, Garbage Out)
+GIMP (GNU Image Manipulation Program)
+Git
+GitHub
+Glasfaser
+Gleichungslöser
+Gleitkomma
+Globalisierung
+Glossar
+Gopher
+GPRS (General Packet Radio Service)
+GPS (Global Positioning System)
+GPU (Graphics Processing Unit)
+Grafikkarte
+Grafische Benutzeroberfläche
+Grafische Darstellung
+Grammatik
+Größe
+Großrechner
+Gruppe
+Gruppenrichtlinienerstellung
+Gruppenrichtlinienobjekt
+GUI (Graphical User Interface)
+GUI (Graphical User Interface)
+GZIP (GNU ZIP)
+Hacken
+Hadoop
+Halbleiter
+Half Duplex
+Hardware
+Hauptspeicher
+Headset
+Heatmap
+Heuristik
+Hierarchie
+Hintergrundprozess
+Honeypot
+Hotfix
+Hotkey
+HTML (Hypertext Markup Language)
+HTML (Hypertext Markup Language)
+HTTP (Hypertext Transfer Protocol)
+HTTPS (Hypertext Transfer Protocol Secure)
+Hybrid Cloud
+Hyperlink
+Hyper-Threading
+IaaS (Infrastructure as a Service)
+IAM (Identity and Access Management)
+IDE (Integrated Development Environment)
+IEEE (Institute of Electrical and Electronics Engineers)
+IF-Abfrage (If statement)
+IIS (Internet Information Services)
+IMAP (Internet Message Access Protocol)
+Implementierung
+Inhalt
+Inhaltliches Modell
+Initialisierung
+Injektion
+In-Memory Computing
+In-Memory-Datenbank
+In-Memory-Technologie
+In-place-Update
+Input
+Input-Validierung
+Installation
+Instant Messaging
+Instruktion
+Integration
+Interaktion
+Interface
+Internet
+Internet der Dinge (IoT)
+Interoperabilität
+Interrupt
+Intranet
+Inverted Index
+IP-Adresse (Internet Protocol Address)
+IPS (Intrusion Prevention System)
+IPv4 (Internet Protocol Version 4)
+IPv6 (Internet Protocol Version 6)
+IRC (Internet Relay Chat)
+ISO (International Organization for Standardization)
+ISP (Internet Service Provider)
+IT (Informationstechnologie)
+IT-Management
+JAR (Java Archive)
+Java Virtual Machine (JVM)
+Java-Plattform
+JavaScript
+JavaScript Object Notation (JSON)
+JavaScript-Engine
+Java-Skript
+Jitter
+Job
+Job-Scheduling
+Joomla
+JPEG (Joint Photographic Experts Group)
+JQuery
+JSON (JavaScript Object Notation)
+JSP (Java Server Pages)
+JUnit
+Junk-Mail
+Kanban
+Karrieremöglichkeiten
+Kaskade
+Kaskadierbarkeit
+Kaskadierte Löschung
+Kaskadiertes Löschen
+Kaskadierungsaktualisierung
+Kaskadierungsdeaktivierung
+Kaskadierungsintegrität
+Kaskadierungsupdate
+Katastrophenschutz
+KB (Kilobyte)
+Kerberos
+Kernel
+Keylogger
+Kilobit (Kbit)
+Kilobyte (KB)
+Kinematik
+Kinetik
+Klassifizierung
+Kleiner-Großer-Vergleich
+Klonen
+Knoten
+Kommunikation
+Kommunikationsprotokoll
+Kompatibilität
+Komplexität
+Komponente
+Komponentendiagramm
+Komponentenschnittstelle
+Komprimierung
+Konditional
+Konfiguration
+Konfigurationsdatei
+Konfigurationsmanagement
+Konfigurationsobjekt
+Konfigurationsskript
+Konnektivität
+Konstante
+Konstruktor
+Kontext
+Kontextmenü
+Konvergenz
+Konvertierung
+Kopie
+Kopiergeschützt
+Kopplung
+Körperschaftssteuer
+Kryptographie
+Kryptographische Schlüsselverwaltung
+Kryptographischer Schlüssel
+Künstliche Intelligenz
+Kürzel
+L2TP (Layer 2 Tunneling Protocol)
+Label
+LAMP (Linux, Apache, MySQL, PHP)
+LAN (Local Area Network)
+Laplace-Transformation
+Laserdrucker
+LaTeX
+LDAP (Lightweight Directory Access Protocol)
+Leasing
+LED (Light Emitting Diode)
+Legacy-System
+Lego-Mindstorms
+Lexer
+Library
+LIDAR (Light Detection and Ranging)
+Life Cycle Costing (LCC)
+LIFO (Last In, First Out)
+Lightbox
+Like
+Link
+Linker
+Linux
+Liste
+Listen
+Load Balancer
+Load Balancing
+Local Area Network (LAN)
+Lock-Datei
+Login
+Logische Verknüpfung
+Lohnsteuer
+Loopback
+Löschen
+Löschung
+LSP (Layered Service Provider)
+LTE (Long-Term Evolution)
+Lüfter
+LUN (Logical Unit Number)
+MAC (Media Access Control)
+Machine Learning
+Macro
+Magento
+Mailing-Liste
+Mail-Server
+Mainframe
+Management-Informationssystem (MIS)
+Manifest
+Manipulation
+Markdown
+Markierung
+Maschinensprache
+Maschine-zu-Maschine (M2M)
+Master-Boot-Record (MBR)
+Master-Knoten
+Masternode
+Material Design
+Mathematische Modellierung
+Maven
+MCSE (Microsoft Certified Systems Engineer)
+Mechanik
+Medienbibliothek
+Medienbruch
+Medienkonverter
+Medienplayer
+Megabit (Mbit)
+Megabyte (MB)
+Megahertz (MHz)
+Memory Leak
+Menü
+Merkle-Tree
+Message
+Message Broker
+Message Queue
+Message-Oriented Middleware (MOM)
+Messenger
+Metadaten
+Metrik
+Microblogging
+Microcontroller
+Microkernel
+Microservices
+Middleware
+Migration
+MIME (Multipurpose Internet Mail Extensions)
+Mind Map
+Miniaturisierung
+Minicomputer
+Mini-Computer
+Minimierung
+Mining
+Minix
+Misserfolgsrate
+Mixed Reality
+ML (Machine Learning)
+Modellierung
+Modem
+Modem-Kabel
+Modul
+Modularisierung
+Modularität
+Modulbauweise
+Modulhandbuch
+Modulprüfung
+Modulsystem
+Modulübersicht
+Modulverwaltung
+Modulzentrum
+Monitoring
+Monochrom
+Monopol
+Monostabile Kippstufe
+Montage
+Monte-Carlo-Simulation
+MOOC (Massive Open Online Course)
+MOSFET (Metal Oxide Semiconductor Field Effect Transistor)
+Mouseover
+MP3 (MPEG Audio Layer-3)
+MPEG (Moving Picture Experts Group)
+MPLS (Multiprotocol Label Switching)
+MS Excel
+MS PowerPoint
+MS Word
+Multicast
+Multidimensional
+Multifaktor-Authentifizierung
+Multithreading
+Multitouch
+Mustererkennung
+MVC (Model View Controller)
+MX-Record (Mail Exchange Record)
+MySQL
+Nachhaltigkeit
+Nachschlagealgorithmus
+Nachverfolgung
+Namespace
+NAND-Speicher
+Nanosekunde (ns)
+Nano-SIM
+NAT (Network Address Translation)
+NAT (Network Address Translation)
+Native Advertising
+NAT-Traversal
+Navigation
+NC (Numerical Control)
+NC (Numerical Control)
+NDA (Non-Disclosure Agreement)
+NDA (Non-Disclosure Agreement)
+Near Field Communication (NFC)
+Near Field Communication (NFC)
+NEC (Nippon Electric Company)
+NEC (Nippon Electric Company)
+Negation
+Negotiation
+Neighbour Discovery Protocol (NDP)
+Neo4j
+Netiquette
+Netizen
+Netlify
+Netmask
+Netzneutralität
+Netzwerk
+Netzwerk
+Netzwerk
+Netzwerkadapter
+Netzwerkadministrator
+Netzwerkadministrator
+Netzwerkausfall
+Netzwerkausfall
+Netzwerkdienst
+Netzwerkkabel
+Netzwerkprotokoll
+Netzwerkressourcen
+Netzwerksegment
+Netzwerkserver
+Netzwerksockel
+Netzwerktopologie
+Netzwerkzugriff
+Neuronales Netzwerk
+Newsgroup
+NFC (Near Field Communication)
+NFS (Network File System)
+NGINX
+Nibble
+NIC (Network Interface Card)
+NIC-Teaming
+NIST (National Institute of Standards and Technology)
+Nmap
+Node
+Node.js
+Noise Cancelling
+Non-Functional Requirements (NFR)
+NoSQL (Not Only SQL)
+Notebook
+Notification
+Nougat
+Null
+Null-Pointer-Exception
+Nullwert
+Numerische Integration
+Numerische Simulation
+Nummernkreis
+Nutzererfahrung
+Nutzungsbedingungen
+NVIDIA
+OAuth (Open Authorization)
+Object-Code
+Object-Relational Mapping (ORM)
+Objekt
+Objektcode
+Objektdatenbank
+Objektorientierte Analyse (OOA)
+Objektorientierte Datenbank (OODB)
+Objektorientierte Programmierung (OOP)
+Obligatorisch
+OCR (Optical Character Recognition)
+ODBC (Open Database Connectivity)
+ODER-Verknüpfung
+Office
+Offline
+Offline-Betrieb
+Offline-Datenbank
+Offshore-Entwicklung
+OLE (Object Linking and Embedding)
+OOP (Objektorientierte Programmierung)
+Open Data
+Open Source
+OpenAI
+OpenBSD
+OpenID
+OpenStack
+Operating System (OS)
+Operation
+Operator
+Optical Character Recognition (OCR)
+Optimierung
+Option
+Oracle
+Ordner
+Organisationseinheit
+ORM (Object-Relational Mapping)
+OS X
+OSI (Open Systems Interconnection)
+OSS (Open Source Software)
+Outlook
+Out-of-Band
+Overclocking
+Overhead
+Overlay-Netzwerk
+PaaS (Platform as a Service)
+PaaS (Platform as a Service)
+Packet Loss
+Packet Switching
+Packet Tracer
+Padding
+Pagefile
+Pagerank
+Pair-Programming
+PAL (Phase Alternating Line)
+Parameter
+Parametrisierung
+Parität
+Parse
+Parser
+Partition
+Pascal
+Passive Components
+Password
+Patch
+Path
+Payload
+PBX (Private Branch Exchange)
+PCI (Peripheral Component Interconnect)
+PCI-Express
+PCMCIA (Personal Computer Memory Card International Association)
+PDA (Personal Digital Assistant)
+PDF (Portable Document Format)
+Peer
+Peer-to-Peer (P2P)
+PEGI (Pan European Game Information)
+Penetration Testing
+Pentium
+Performance
+Performance-Monitoring
+Personal Firewall
+Personal Information Manager (PIM)
+Personalization
+PET (Positron Emission Tomography)
+PGP (Pretty Good Privacy)
+PHB (Per Hop Behavior)
+PHK (Poul-Henning Kamp)
+PHP (Hypertext Preprocessor)
+PHY-Schicht (Physical Layer)
+Physical Address
+Physical Layer
+Piconet
+Picture-in-Picture (PiP)
+PIM (Personal Information Manager)
+Ping
+Pink Sheets
+PIN-Nummer
+Pipeline
+Pixel
+Pixelgrafik
+PKI (Public Key Infrastructure)
+PL/SQL (Procedural Language/Structured Query Language)
+Platform as a Service (PaaS)
+Player
+PLD (Programmable Logic Device)
+Plug-and-Play
+Plugin
+Plug-in
+PM (Project Management)
+Podcast
+PoE (Power over Ethernet)
+Point-to-Multipoint (P2MP)
+Point-to-Point (P2P)
+Poke
+Policy
+Polymorphismus
+POP (Post Office Protocol)
+Port
+Port Forwarding
+Port Scanner
+Portal
+POSIX (Portable Operating System Interface)
+POST (Power-On Self Test)
+POSTGRES
+PostScript
+Powerpoint
+PPC (Pay-Per-Click)
+PPP (Point-to-Point Protocol)
+PR (Public Relations)
+Präfix
+Präsentationslayer
+Preboot Execution Environment (PXE)
+Predictive Analytics
+Prefix
+Prefix-Liste
+Preprocessing
+Pretty Good Privacy (PGP)
+Primefaces
+Privacy
+Private Branch Exchange (PBX)
+Private Cloud
+Private Key
+Proaktive Wartung
+Proaktives Monitoring
+Problem Management
+Problemstellung
+Procedural Language/Structured Query Language (PL/SQL)
+Procedure
+Process
+Process Mining
+Process-Explorer
+Prognose
+Programmiersprache
+QA (Quality Assurance)
+QoS (Quality of Service)
+QR-Code
+Quad-Core
+Quadrant
+Query
+Query Language
+Queue
+Quick Charge
+Quick Response (QR)
+Quicksort
+Quicktime
+Quiet Cooling
+Quine-McCluskey
+Quorum
+Quotient
+RAID (Redundant Array of Independent Disks)
+RAID 0
+RAID 1
+RAID 5
+RAID 6
+RAM (Random Access Memory)
+Rambus
+RAM-Disk
+RAM-Laufwerk
+Random Access Memory (RAM)
+Range
+Ransomware
+Raspberry Pi
+Rastergrafik
+Rasterung
+Raw
+Raytracing
+RDBMS (Relational Database Management System)
+React
+React Native
+Realtek
+Real-Time System
+Reasoning
+Reboot
+Recovery
+Red Hat
+Redundancy
+Redundant Array of Independent Disks (RAID)
+Reference
+Refresh
+Regedit
+Regular Expression (RegEx)
+Rekursion
+Remote
+Remote Access
+Remote Desktop
+Remote Procedure Call (RPC)
+Remote-Zugriff
+Reparatur
+Repetierer
+Repetition
+Replay
+Report
+Repository
+Repräsentation
+Request
+Response
+Responsive Design
+REST (Representational State Transfer)
+RESTful
+Result
+Resume
+Retargeting
+Return
+Reverse Engineering
+RFID (Radio Frequency Identification)
+RGB (Red, Green, Blue)
+Rhapsody
+Richtlinie
+Richtungsbezeichner
+RISC (Reduced Instruction Set Computing)
+RMAN (Recovery Manager)
+Roadmap
+Robocopy
+Robot
+Robustheit
+ROC (Receiver Operating Characteristic)
+ROM (Read Only Memory)
+Root
+Router
+Routing
+Routing-Information Protocol (RIP)
+RPC (Remote Procedure Call)
+RRDtool
+RSS (Rich Site Summary)
+RTF (Rich Text Format)
+RTL (Right to Left)
+Ruby
+Ruby on Rails
+Runtime
+Runtime Environment
+Rush Hour
+RWD (Responsive Web Design)
+RZ (Return to Zero)
+SaaS (Software as a Service)
+SACD (Super Audio CD)
+Samba
+SAN (Storage Area Network)
+SAP (Systeme, Anwendungen, Produkte in der Datenverarbeitung)
+SATA (Serial Advanced Technology Attachment)
+Satellitenverbindung
+Scaling
+Scanner
+Schema
+Schlüsselwort
+Schneeballsystem
+Schnittstelle
+Schreib-/Lesekopf
+Schriftart
+Schrumpfen
+Schwellenwert
+Science-Fiction
+SCSI (Small Computer System Interface)
+SDK (Software Development Kit)
+Search Engine
+Search Engine Marketing (SEM)
+Search Engine Optimization (SEO)
+Second-Level-Domain
+Secure Sockets Layer (SSL)
+Security
+Segment
+Selection
+Selfie
+Semantic Web
+Semantische Suche
+Semaphore
+Semikolon
+Senke
+Sensor
+Server
+Server
+Server-Betriebssystem
+Serverless
+Service
+Service Level Agreement (SLA)
+Service Provider
+Serviceorientierte Architektur (SOA)
+Session
+SETI@home
+Setter-Methode
+SFTP (Secure File Transfer Protocol)
+SHA (Secure Hash Algorithm)
+Shareware
+Shell
+Shift-Taste
+Shop-System
+Short-Code
+Shortcut
+Shortcut
+Side-Scroller
+Signature
+SIMD (Single Instruction Multiple Data)
+Simultanübersetzung
+SIP (Session Initiation Protocol)
+Site-Map
+Site-Map-Generator
+Skalierung
+Skalierungsfaktor
+Skript
+Skriptsprache
+Skyscraper
+SLA (Service Level Agreement)
+Slashdot-Effekt
+Slider
+Slogan
+Smart Card
+Smartphone
+SMIL (Synchronized Multimedia Integration Language)
+SMS (Short Message Service)
+SMTP (Simple Mail Transfer Protocol)
+SMTP (Simple Mail Transfer Protocol)
+Snap-In
+Snapshot
+SNTP (Simple Network Time Protocol)
+SOAP (Simple Object Access Protocol)
+Social Media
+Social Network
+Software
+Software
+Software Defined Network (SDN)
+Software Engineering
+Software Testing
+Software-Update
+Solid
+Solid State Drive (SSD)
+Solver
+Soundkarte
+Source Code
+Spam
+Spawn
+Speicher
+Speicheraufrüstung
+Speicherausbau
+Speicherauszug
+Speicherbaustein
+Speicherbereich
+Speicherchip
+Speicherdichte
+Speichererweiterung
+Speicherformat
+Speicherhierarchie
+Speicherinterface
+Speicherkapazität
+Speicherkarte
+Speichermanagement
+Speichermodule
+Speicherplatz
+Speicherriegel
+Speicherverwaltung
+Speichervolumen
+Spiegelung
+Spin-Off
+Spooling
+Spreadsheet
+SQL (Structured Query Language)
+SQL (Structured Query Language)
+SSH (Secure Shell)
+SSL (Secure Sockets Layer)
+Stack
+Standard
+Standardisierung
+Standby
+Startbildschirm
+Startmenü
+Star-Topologie
+Start-up
+Statistik
+Status
+Stau
+Steganographie
+Steuerzeichen
+Streaming
+String
+Stromsparmodus
+Struktogramm
+Subdomain
+Subnet
+Subnetzmaske
+Suchalgorithmus
+Suchergebnisseite
+Suchfilter
+Suchfunktion
+Suchindex
+Suchmaschine
+Suchmaschinenmarketing
+Suchmaschinenoptimierung
+Suchoperatoren
+Suchparameter
+Suchpfad
+Suchphrase
+Suchroboter
+Suchsoftware
+Suchtrends
+Suchverhalten
+Suchvorschlag
+Swiss Knife
+Switch
+Symantec
+Symantec Norton Ghost
+Symmetrische Verschlüsselung
+Syntax
+System
+Systemanforderungen
+Systematik
+Systematisierung
+Systemkonfiguration
+Systemkonfigurationsprogramm
+Systemmanagement
+Systemmonitor
+Systemprogrammierung
+Systemressourcen
+Systemspeicher
+Systemsteuerung
+Systemtest
+Systemuhr
+Systemupdate
+Systemzeit
+Tabellenkalkulation
+Tablet
+Tablet-Computer
+Tabulator
+Tag
+Tag-Cloud
+Tagging
+Tag-Manager
+Task
+Taskleiste
+TCP (Transmission Control Protocol)
+TCP/IP (Transmission Control Protocol/Internet Protocol)
+Technical Support
+Technologie
+Telefonkonferenz
+Telekommunikation
+Template
+Terminator
+Test
+Testlauf
+Testmuster
+Testphase
+Texteditor
+Textformatierung
+Textverarbeitung
+Thin Client
+Thread
+Thumbnail
+Ticket-System
+Timecode
+Timeout
+Token
+Topologie
+Trackball
+Tracking
+Traffic
+Transfer
+Transformation
+Translator
+Transparent
+Transportprotokoll
+Trigger
+Trojaner
+TrueType
+Tunneling
+Twitter
+Typografie
+UDF (Universal Disk Format)
+UDP (User Datagram Protocol)
+UI (User Interface)
+UML (Unified Modeling Language)
+Unicode
+Unix
+Update
+Upload
+Upstream
+URL (Uniform Resource Locator)
+USB (Universal Serial Bus)
+User
+User-ID
+User-Interface-Design
+Utility
+UX (User Experience)
+Validierung
+Variable
+Variante
+VBA (Visual Basic for Applications)
+Vector
+Vectorgrafik
+Verarbeitung
+Verbindung
+Verifikation
+Verkabelung
+Vermittlung
+Verschlüsselung
+Version
+Versionskontrolle
+Virtual Hosting
+Virtual Machine
+Virtual Reality
+Virtualisierung
+Virtualisierung
+Virtuelles Private Netzwerk (VPN)
+Virus
+Visual Basic
+Visualisierung
+VLAN (Virtual Local Area Network)
+Voice over IP (VoIP)
+Volume
+Vorschau
+Vorschlagsfunktion
+Vorschlagsliste
+Vorschlagswort
+Vorschlagswörterbuch
+VPN (Virtual Private Network)
+VPS (Virtual Private Server)
+W3C (World Wide Web Consortium)
+WAN (Wide Area Network)
+WAP (Wireless Application Protocol)
+Warmstart
+Wasserkühlung
+Web
+Web 2.0
+Web-Analytics
+Webbrowser
+Webdesign
+Webhosting
+Weblog
+Webmail
+Webmaster
+Webseite
+Webserver
+Webspace
+Webstandards
+Webtechnologien
+Webtracking
+Webzugriffsstatistik
+Weihnachtsbaum
+Weißabgleich
+Wizard
+WLAN (Wireless Local Area Network)
+Workflow
+WYSIWYG (What You See Is What You Get)
+XML (Extensible Markup Language)
+XML (Extensible Markup Language)
+XPath
+XSL (Extensible Stylesheet Language)
+XSLT (XSL Transformations)
+YAML (YAML Ain't Markup Language)
+YouTube
+Zertifizierung
+Zielgruppe
+Zielgruppenanalyse
+Zoom
+Zugriffskontrolle
+Zugriffszeit
+Zustand
+Zustandsdiagramm
+Zustandsmaschine
+Zwischenspeicher
