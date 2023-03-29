@@ -13,40 +13,24 @@ namespace ChatGPT3
             _gpt3 = gpt;
         }
 
-        public async Task<Answer> SendMessageWithAnswer(string message, string keyword)
+        public async Task<string> SendMessageWithAnswer(string message)
         {
             var completionResult = await _gpt3.Completions.CreateCompletion(new CompletionCreateRequest()
             {
                 Prompt = message,
-                Model = Models.TextDavinciV2,
+                Model = Models.TextDavinciV3,
                 Temperature = 0.5F,
-                MaxTokens = 500,
+                MaxTokens = 1000,
                 N = 1
             });
 
             if (completionResult.Successful)
             {
-                List<string> list = new();
-                var answer = new Answer();
-                answer.KeyWord = keyword;
-
-                foreach (var choice in completionResult.Choices)
-                {
-                    list.Add(choice.Text.Trim().Replace(@"\n\n", @"\n"));
-                }
-                answer.Answers = list.ToArray();
-                return answer;
-            }
-            else
-            {
-                if (completionResult.Error == null)
-                {
-                    throw new Exception("Unknown Error");
-                }
-                Console.WriteLine($"{completionResult.Error.Code}: {completionResult.Error.Message}");
+                return completionResult.Choices[0].Text.Trim();
             }
             return null;
-
         }
+
+     
     }
 }
